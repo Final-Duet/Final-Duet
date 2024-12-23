@@ -11,7 +11,7 @@ $\textcolor{pink}{On}  　   \textcolor{pink}{my} 　 \textcolor{pink}{way} 　 
 $\textcolor{pink}{Kazzy} \ \textcolor{pink}{or} \ \textcolor{pink}{Kaworu} \ \textcolor{pink}{!}$
 </p>
 <p align="center">
-$\textcolor{pink}{They} /  \textcolor{pink}{She} 　 \textcolor{pink}{14}$
+$\textcolor{pink}{They} /  \textcolor{pink}{Them} 　 \textcolor{pink}{14}$
 </p>
 <div align="center">
   <img height="5" src="https://64.media.tumblr.com/0038f2f4cb3c81dcbaf99b3c2526eb28/7463cc10929b1ef5-8a/s2048x3072/c9703cce2e108052594ec792bd87603f14a9bbc9.jpg"  />
