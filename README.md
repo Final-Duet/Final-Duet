@@ -1,26 +1,16 @@
+
+
 <div align="center">
-  <img height="50" src="https://64.media.tumblr.com/7da7616c7108c62f300ca6147efd6c90/79f982e0cf7bd989-75/s2048x3072/96d2c40ad4837143a18810ce1a8b76942b40f7e5.pnj"  />
+  <img height="400" src="https://64.media.tumblr.com/665df68b73c47ab65cea60a101523eb8/593f24538b6d9e37-30/s1280x1920/00db0cd3473f90d47345a20e48dc5118a4ddbb4d.pnj"  />
 </div>
 <p align="center">
-$\textcolor{pink}{On}  　   \textcolor{pink}{my} 　 \textcolor{pink}{way} 　 \textcolor{pink}{home}   \textcolor{pink}{without} 　 \textcolor{pink}{friends.}$
-</p>
-<div align="center">
-  <img height="400" src="https://64.media.tumblr.com/0a0737d2723a33deca108063347730c4/1827074215637983-ef/s640x960/4c0bf73b8ff6dfdc4987056998273fa133e433ce.pnj"  />
-</div>
-<p align="center">
-$\textcolor{pink}{Kazzy} \ \textcolor{pink}{or} \ \textcolor{pink}{Kaworu} \ \textcolor{pink}{!}$
+$\textcolor{#1632b7}{Kazzy} \ \textcolor{#3abfb0}{or} \ \textcolor{#1632b7}{Kaworu} \ \textcolor{#1632b7}{!}$
 </p>
 <p align="center">
-$\textcolor{pink}{They} /  \textcolor{pink}{Them} 　 \textcolor{pink}{14}$
+$\textcolor{#3abfb0}{They} \textcolor{#3abfb0}{/}  \textcolor{#3abfb0}{Them} 　 \textcolor{#1632b7}{14}$
 </p>
 <div align="center">
-  <img height="5" src="https://64.media.tumblr.com/0038f2f4cb3c81dcbaf99b3c2526eb28/7463cc10929b1ef5-8a/s2048x3072/c9703cce2e108052594ec792bd87603f14a9bbc9.jpg"  />
+  <img height="4" src="https://64.media.tumblr.com/420d6b78ce192935989a17e74e4177d3/bda8b752119b2997-11/s1280x1920/c35ee98fbe7976f0ab8c0749cbb89dffa402181a.jpg"  />
 </div>
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎‎ ‎ 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎‎ ‎ 
-<p align="center">
-$\textcolor{pink}{The} 　 \textcolor{pink}{sunset} 　 \textcolor{pink}{is} 　 \textcolor{pink}{sometimes} 　 \textcolor{pink}{kind.}$　 
-</p>
-<div align="center">
-  <img height="50" src="https://64.media.tumblr.com/4966930e3665b6b0188aff34d10bb479/79f982e0cf7bd989-80/s2048x3072/90c0c008468023964f32a491c29718d15b8293d0.pnj"  />
-</div>
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎‎ 
